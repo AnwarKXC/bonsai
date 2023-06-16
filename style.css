@@ -74,7 +74,7 @@ a {
 
 nav {
     position: relative;
-    padding-bottom: 30dvh;
+    padding-bottom: 5dvh;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -87,7 +87,7 @@ nav::before {
     margin-left: 25px;
     margin-right: 25px;
     background-color: #bdc4c4a8;
-    bottom: 270px;
+    bottom: 70px;
 }
 
 .nav-links {
